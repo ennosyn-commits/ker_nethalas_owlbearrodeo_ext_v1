@@ -1,0 +1,12 @@
+{
+  "name": "Ker Nethalas Tracker",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "action": {
+    "title": "Ker Nethalas Tracker",
+    "icon": "/icon.svg",
+    "popover": "/index.html",
+    "height": 500,
+    "width": 300
+  }
+}
